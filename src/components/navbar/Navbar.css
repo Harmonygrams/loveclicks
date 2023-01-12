@@ -1,0 +1,26 @@
+.header {
+    background-color: white;
+    padding-block: 20px;;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    font-weight: 700;
+    color: rgb(45, 45, 45);
+    font-size: 1.56rem;
+}
+.logo span {
+    color : #00cb7f;
+}
+.nav__list {
+    display: flex;
+    gap: 20px; 
+}
+.nav__link {
+    color: rgb(45, 45, 45);
+    font-size: 1.1rem;
+    font-weight: 500;
+}
